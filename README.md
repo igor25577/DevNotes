@@ -20,7 +20,7 @@ Como Usar
 Clone o Repositório:
 Bash
 
-git clone https://github.com/seu-usuario/DevNotes.git
+git clone https://github.com/igor25577/DevNotes.git
 Navegue até o Diretório do Projeto:
 Bash
 
